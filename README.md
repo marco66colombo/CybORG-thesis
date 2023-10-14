@@ -1,3 +1,6 @@
+# Master Thesis Project, University of Illinois at Chicago
+Code will be released in the future.
+
 # Copyright DST Group. Licensed under the MIT license.
 
 # Cyber Operations Research Gym (CybORG)
